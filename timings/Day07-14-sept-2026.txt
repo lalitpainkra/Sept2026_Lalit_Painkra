@@ -1,0 +1,6 @@
+1 hr - linux interview question
+2 hr - k8s
+
+what to do next?
+-terraform
+-revision
